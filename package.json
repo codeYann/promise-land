@@ -1,0 +1,12 @@
+{
+  "name": "promise-land",
+  "version": "1.0.0",
+  "description": "A collection of code and experiments exploring asynchronous programming concepts in JavaScript and TypeScript, including Promises, async/await, event loops, and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
